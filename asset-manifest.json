@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/jobsgabon/static/css/main.05730ccd.chunk.css",
+    "main.js": "/jobsgabon/static/js/main.b7eff05c.chunk.js",
+    "main.js.map": "/jobsgabon/static/js/main.b7eff05c.chunk.js.map",
+    "runtime-main.js": "/jobsgabon/static/js/runtime-main.88ce6d10.js",
+    "runtime-main.js.map": "/jobsgabon/static/js/runtime-main.88ce6d10.js.map",
+    "static/js/2.8b543233.chunk.js": "/jobsgabon/static/js/2.8b543233.chunk.js",
+    "static/js/2.8b543233.chunk.js.map": "/jobsgabon/static/js/2.8b543233.chunk.js.map",
+    "index.html": "/jobsgabon/index.html",
+    "static/css/main.05730ccd.chunk.css.map": "/jobsgabon/static/css/main.05730ccd.chunk.css.map",
+    "static/js/2.8b543233.chunk.js.LICENSE.txt": "/jobsgabon/static/js/2.8b543233.chunk.js.LICENSE.txt",
+    "static/media/Outer_space.a8bcef10.svg": "/jobsgabon/static/media/Outer_space.a8bcef10.svg",
+    "static/media/Search.svg": "/jobsgabon/static/media/Search.a53f3db4.svg",
+    "static/media/announcement.01c18678.svg": "/jobsgabon/static/media/announcement.01c18678.svg",
+    "static/media/authentication_2.svg": "/jobsgabon/static/media/authentication_2.46f91317.svg",
+    "static/media/businessman.9408232f.svg": "/jobsgabon/static/media/businessman.9408232f.svg",
+    "static/media/candidate.def14d4d.svg": "/jobsgabon/static/media/candidate.def14d4d.svg",
+    "static/media/contact.svg": "/jobsgabon/static/media/contact.9d1edb30.svg",
+    "static/media/interview.872d9882.svg": "/jobsgabon/static/media/interview.872d9882.svg",
+    "static/media/jobgabon2.85901a13.jpeg": "/jobsgabon/static/media/jobgabon2.85901a13.jpeg",
+    "static/media/new_ideas.844305e9.svg": "/jobsgabon/static/media/new_ideas.844305e9.svg",
+    "static/media/production ID_4486543.2a84e4a1.mp4": "/jobsgabon/static/media/production ID_4486543.2a84e4a1.mp4",
+    "static/media/produit-1.svg": "/jobsgabon/static/media/produit-1.378511ef.svg",
+    "static/media/video.c77deb3d.mp4": "/jobsgabon/static/media/video.c77deb3d.mp4",
+    "static/media/workers.svg": "/jobsgabon/static/media/workers.eef7530a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88ce6d10.js",
+    "static/js/2.8b543233.chunk.js",
+    "static/css/main.05730ccd.chunk.css",
+    "static/js/main.b7eff05c.chunk.js"
+  ]
+}

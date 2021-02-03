@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jobsgabon/static/css/main.5c6d40e0.chunk.css",
-    "main.js": "/jobsgabon/static/js/main.399864c0.chunk.js",
-    "main.js.map": "/jobsgabon/static/js/main.399864c0.chunk.js.map",
+    "main.js": "/jobsgabon/static/js/main.8f832b45.chunk.js",
+    "main.js.map": "/jobsgabon/static/js/main.8f832b45.chunk.js.map",
     "runtime-main.js": "/jobsgabon/static/js/runtime-main.88ce6d10.js",
     "runtime-main.js.map": "/jobsgabon/static/js/runtime-main.88ce6d10.js.map",
     "static/js/2.c3ccaf64.chunk.js": "/jobsgabon/static/js/2.c3ccaf64.chunk.js",
@@ -24,8 +24,6 @@
     "static/media/jobgabon2.85901a13.jpeg": "/jobsgabon/static/media/jobgabon2.85901a13.jpeg",
     "static/media/new_ideas.844305e9.svg": "/jobsgabon/static/media/new_ideas.844305e9.svg",
     "static/media/pexels-anete-lusina-4792286.jpg": "/jobsgabon/static/media/pexels-anete-lusina-4792286.55ddab45.jpg",
-    "static/media/production ID_4484263.53b39b7f.mp4": "/jobsgabon/static/media/production ID_4484263.53b39b7f.mp4",
-    "static/media/production ID_4486543.2a84e4a1.mp4": "/jobsgabon/static/media/production ID_4486543.2a84e4a1.mp4",
     "static/media/thoughtful-african.jpg": "/jobsgabon/static/media/thoughtful-african.96033185.jpg",
     "static/media/two-happy-african-colleagues-using-laptop.407701ce.jpg": "/jobsgabon/static/media/two-happy-african-colleagues-using-laptop.407701ce.jpg"
   },
@@ -33,6 +31,6 @@
     "static/js/runtime-main.88ce6d10.js",
     "static/js/2.c3ccaf64.chunk.js",
     "static/css/main.5c6d40e0.chunk.css",
-    "static/js/main.399864c0.chunk.js"
+    "static/js/main.8f832b45.chunk.js"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jobsgabon/static/css/main.d6cfce52.chunk.css",
-    "main.js": "/jobsgabon/static/js/main.f0738c9f.chunk.js",
-    "main.js.map": "/jobsgabon/static/js/main.f0738c9f.chunk.js.map",
+    "main.js": "/jobsgabon/static/js/main.e96daf24.chunk.js",
+    "main.js.map": "/jobsgabon/static/js/main.e96daf24.chunk.js.map",
     "runtime-main.js": "/jobsgabon/static/js/runtime-main.88ce6d10.js",
     "runtime-main.js.map": "/jobsgabon/static/js/runtime-main.88ce6d10.js.map",
     "static/js/2.c3ccaf64.chunk.js": "/jobsgabon/static/js/2.c3ccaf64.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.88ce6d10.js",
     "static/js/2.c3ccaf64.chunk.js",
     "static/css/main.d6cfce52.chunk.css",
-    "static/js/main.f0738c9f.chunk.js"
+    "static/js/main.e96daf24.chunk.js"
   ]
 }

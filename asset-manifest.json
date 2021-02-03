@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/jobsgabon/static/css/main.5c6d40e0.chunk.css",
-    "main.js": "/jobsgabon/static/js/main.8f832b45.chunk.js",
-    "main.js.map": "/jobsgabon/static/js/main.8f832b45.chunk.js.map",
+    "main.css": "/jobsgabon/static/css/main.d6cfce52.chunk.css",
+    "main.js": "/jobsgabon/static/js/main.f0738c9f.chunk.js",
+    "main.js.map": "/jobsgabon/static/js/main.f0738c9f.chunk.js.map",
     "runtime-main.js": "/jobsgabon/static/js/runtime-main.88ce6d10.js",
     "runtime-main.js.map": "/jobsgabon/static/js/runtime-main.88ce6d10.js.map",
     "static/js/2.c3ccaf64.chunk.js": "/jobsgabon/static/js/2.c3ccaf64.chunk.js",
     "static/js/2.c3ccaf64.chunk.js.map": "/jobsgabon/static/js/2.c3ccaf64.chunk.js.map",
     "index.html": "/jobsgabon/index.html",
-    "static/css/main.5c6d40e0.chunk.css.map": "/jobsgabon/static/css/main.5c6d40e0.chunk.css.map",
+    "static/css/main.d6cfce52.chunk.css.map": "/jobsgabon/static/css/main.d6cfce52.chunk.css.map",
     "static/js/2.c3ccaf64.chunk.js.LICENSE.txt": "/jobsgabon/static/js/2.c3ccaf64.chunk.js.LICENSE.txt",
     "static/media/Outer_space.a8bcef10.svg": "/jobsgabon/static/media/Outer_space.a8bcef10.svg",
     "static/media/Search.svg": "/jobsgabon/static/media/Search.a53f3db4.svg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.88ce6d10.js",
     "static/js/2.c3ccaf64.chunk.js",
-    "static/css/main.5c6d40e0.chunk.css",
-    "static/js/main.8f832b45.chunk.js"
+    "static/css/main.d6cfce52.chunk.css",
+    "static/js/main.f0738c9f.chunk.js"
   ]
 }

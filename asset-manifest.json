@@ -1,36 +1,36 @@
 {
   "files": {
     "main.css": "/jobsgabon/static/css/main.d6cfce52.chunk.css",
-    "main.js": "/jobsgabon/static/js/main.e96daf24.chunk.js",
-    "main.js.map": "/jobsgabon/static/js/main.e96daf24.chunk.js.map",
+    "main.js": "/jobsgabon/static/js/main.ca607c03.chunk.js",
+    "main.js.map": "/jobsgabon/static/js/main.ca607c03.chunk.js.map",
     "runtime-main.js": "/jobsgabon/static/js/runtime-main.88ce6d10.js",
     "runtime-main.js.map": "/jobsgabon/static/js/runtime-main.88ce6d10.js.map",
-    "static/js/2.c3ccaf64.chunk.js": "/jobsgabon/static/js/2.c3ccaf64.chunk.js",
-    "static/js/2.c3ccaf64.chunk.js.map": "/jobsgabon/static/js/2.c3ccaf64.chunk.js.map",
+    "static/js/2.3eba8f9f.chunk.js": "/jobsgabon/static/js/2.3eba8f9f.chunk.js",
+    "static/js/2.3eba8f9f.chunk.js.map": "/jobsgabon/static/js/2.3eba8f9f.chunk.js.map",
     "index.html": "/jobsgabon/index.html",
     "static/css/main.d6cfce52.chunk.css.map": "/jobsgabon/static/css/main.d6cfce52.chunk.css.map",
-    "static/js/2.c3ccaf64.chunk.js.LICENSE.txt": "/jobsgabon/static/js/2.c3ccaf64.chunk.js.LICENSE.txt",
+    "static/js/2.3eba8f9f.chunk.js.LICENSE.txt": "/jobsgabon/static/js/2.3eba8f9f.chunk.js.LICENSE.txt",
+    "static/media/Capture d’écran 2021-02-04 à 12.52.40.3c9bb75b.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.52.40.3c9bb75b.png",
+    "static/media/Capture d’écran 2021-02-04 à 12.54.31.48762e43.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.54.31.48762e43.png",
+    "static/media/Capture d’écran 2021-02-04 à 12.54.45.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.54.45.b1e4395f.png",
+    "static/media/Capture d’écran 2021-02-04 à 12.55.30.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.55.30.ad2bab95.png",
+    "static/media/Capture d’écran 2021-02-04 à 12.55.45.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.55.45.c7f43d83.png",
+    "static/media/Capture d’écran 2021-02-04 à 12.57.15.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.57.15.29bde39b.png",
     "static/media/Outer_space.a8bcef10.svg": "/jobsgabon/static/media/Outer_space.a8bcef10.svg",
     "static/media/Search.svg": "/jobsgabon/static/media/Search.a53f3db4.svg",
-    "static/media/african-american-business-woman-by-window.b7ec75af.jpg": "/jobsgabon/static/media/african-american-business-woman-by-window.b7ec75af.jpg",
-    "static/media/african-american.jpg": "/jobsgabon/static/media/african-american.22a41464.jpg",
     "static/media/announcement.01c18678.svg": "/jobsgabon/static/media/announcement.01c18678.svg",
     "static/media/businessman.9408232f.svg": "/jobsgabon/static/media/businessman.9408232f.svg",
     "static/media/candidate.def14d4d.svg": "/jobsgabon/static/media/candidate.def14d4d.svg",
     "static/media/contact.svg": "/jobsgabon/static/media/contact.9d1edb30.svg",
-    "static/media/gorgeous-positive-young.jpg": "/jobsgabon/static/media/gorgeous-positive-young.53a36a3d.jpg",
-    "static/media/happy-successful.jpg": "/jobsgabon/static/media/happy-successful.c7ae9193.jpg",
     "static/media/interview.872d9882.svg": "/jobsgabon/static/media/interview.872d9882.svg",
     "static/media/jobgabon2.85901a13.jpeg": "/jobsgabon/static/media/jobgabon2.85901a13.jpeg",
     "static/media/new_ideas.844305e9.svg": "/jobsgabon/static/media/new_ideas.844305e9.svg",
-    "static/media/pexels-anete-lusina-4792286.jpg": "/jobsgabon/static/media/pexels-anete-lusina-4792286.55ddab45.jpg",
-    "static/media/thoughtful-african.jpg": "/jobsgabon/static/media/thoughtful-african.96033185.jpg",
-    "static/media/two-happy-african-colleagues-using-laptop.407701ce.jpg": "/jobsgabon/static/media/two-happy-african-colleagues-using-laptop.407701ce.jpg"
+    "static/media/pexels-anete-lusina-4792286.jpg": "/jobsgabon/static/media/pexels-anete-lusina-4792286.55ddab45.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.88ce6d10.js",
-    "static/js/2.c3ccaf64.chunk.js",
+    "static/js/2.3eba8f9f.chunk.js",
     "static/css/main.d6cfce52.chunk.css",
-    "static/js/main.e96daf24.chunk.js"
+    "static/js/main.ca607c03.chunk.js"
   ]
 }

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jobsgabon/static/css/main.b3162720.chunk.css",
-    "main.js": "/jobsgabon/static/js/main.ea2cfcfa.chunk.js",
-    "main.js.map": "/jobsgabon/static/js/main.ea2cfcfa.chunk.js.map",
+    "main.css": "/jobsgabon/static/css/main.f055d807.chunk.css",
+    "main.js": "/jobsgabon/static/js/main.81603395.chunk.js",
+    "main.js.map": "/jobsgabon/static/js/main.81603395.chunk.js.map",
     "runtime-main.js": "/jobsgabon/static/js/runtime-main.88ce6d10.js",
     "runtime-main.js.map": "/jobsgabon/static/js/runtime-main.88ce6d10.js.map",
-    "static/js/2.f08ca07f.chunk.js": "/jobsgabon/static/js/2.f08ca07f.chunk.js",
-    "static/js/2.f08ca07f.chunk.js.map": "/jobsgabon/static/js/2.f08ca07f.chunk.js.map",
+    "static/js/2.2e502b01.chunk.js": "/jobsgabon/static/js/2.2e502b01.chunk.js",
+    "static/js/2.2e502b01.chunk.js.map": "/jobsgabon/static/js/2.2e502b01.chunk.js.map",
     "index.html": "/jobsgabon/index.html",
-    "static/css/main.b3162720.chunk.css.map": "/jobsgabon/static/css/main.b3162720.chunk.css.map",
-    "static/js/2.f08ca07f.chunk.js.LICENSE.txt": "/jobsgabon/static/js/2.f08ca07f.chunk.js.LICENSE.txt",
+    "static/css/main.f055d807.chunk.css.map": "/jobsgabon/static/css/main.f055d807.chunk.css.map",
+    "static/js/2.2e502b01.chunk.js.LICENSE.txt": "/jobsgabon/static/js/2.2e502b01.chunk.js.LICENSE.txt",
     "static/media/Capture d’écran 2021-02-04 à 12.52.40.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.52.40.3c9bb75b.png",
     "static/media/Capture d’écran 2021-02-04 à 12.53.23.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.53.23.1ff47307.png",
     "static/media/Capture d’écran 2021-02-04 à 12.53.58.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.53.58.2631c43c.png",
@@ -17,24 +17,20 @@
     "static/media/Capture d’écran 2021-02-04 à 12.54.45.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.54.45.b1e4395f.png",
     "static/media/Capture d’écran 2021-02-04 à 12.55.30.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.55.30.ad2bab95.png",
     "static/media/Capture d’écran 2021-02-04 à 12.55.45.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.55.45.c7f43d83.png",
-    "static/media/Capture d’écran 2021-02-04 à 12.56.14.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.56.14.827fff2b.png",
     "static/media/Capture d’écran 2021-02-04 à 12.56.29.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.56.29.4b0daca8.png",
     "static/media/Capture d’écran 2021-02-04 à 12.57.15.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.57.15.29bde39b.png",
     "static/media/Outer_space.a8bcef10.svg": "/jobsgabon/static/media/Outer_space.a8bcef10.svg",
     "static/media/Search.svg": "/jobsgabon/static/media/Search.a53f3db4.svg",
     "static/media/announcement.01c18678.svg": "/jobsgabon/static/media/announcement.01c18678.svg",
-    "static/media/candidate.svg": "/jobsgabon/static/media/candidate.def14d4d.svg",
     "static/media/careers-analysis.jpg": "/jobsgabon/static/media/careers-analysis.0047074e.jpg",
     "static/media/jobgabon2.85901a13.jpeg": "/jobsgabon/static/media/jobgabon2.85901a13.jpeg",
-    "static/media/jobsearch.png": "/jobsgabon/static/media/jobsearch.12397b52.png",
     "static/media/new_ideas.844305e9.svg": "/jobsgabon/static/media/new_ideas.844305e9.svg",
-    "static/media/pexels-anete-lusina-4792286.jpg": "/jobsgabon/static/media/pexels-anete-lusina-4792286.55ddab45.jpg",
-    "static/media/produit-1.svg": "/jobsgabon/static/media/produit-1.378511ef.svg"
+    "static/media/pexels-anete-lusina-4792286.jpg": "/jobsgabon/static/media/pexels-anete-lusina-4792286.55ddab45.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.88ce6d10.js",
-    "static/js/2.f08ca07f.chunk.js",
-    "static/css/main.b3162720.chunk.css",
-    "static/js/main.ea2cfcfa.chunk.js"
+    "static/js/2.2e502b01.chunk.js",
+    "static/css/main.f055d807.chunk.css",
+    "static/js/main.81603395.chunk.js"
   ]
 }

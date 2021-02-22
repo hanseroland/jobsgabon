@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/jobsgabon/static/css/main.b83f664f.chunk.css",
-    "main.js": "/jobsgabon/static/js/main.2ee7eb43.chunk.js",
-    "main.js.map": "/jobsgabon/static/js/main.2ee7eb43.chunk.js.map",
+    "main.css": "/jobsgabon/static/css/main.026057dc.chunk.css",
+    "main.js": "/jobsgabon/static/js/main.9a4990e4.chunk.js",
+    "main.js.map": "/jobsgabon/static/js/main.9a4990e4.chunk.js.map",
     "runtime-main.js": "/jobsgabon/static/js/runtime-main.88ce6d10.js",
     "runtime-main.js.map": "/jobsgabon/static/js/runtime-main.88ce6d10.js.map",
     "static/js/2.36d59069.chunk.js": "/jobsgabon/static/js/2.36d59069.chunk.js",
     "static/js/2.36d59069.chunk.js.map": "/jobsgabon/static/js/2.36d59069.chunk.js.map",
     "index.html": "/jobsgabon/index.html",
-    "static/css/main.b83f664f.chunk.css.map": "/jobsgabon/static/css/main.b83f664f.chunk.css.map",
+    "static/css/main.026057dc.chunk.css.map": "/jobsgabon/static/css/main.026057dc.chunk.css.map",
     "static/js/2.36d59069.chunk.js.LICENSE.txt": "/jobsgabon/static/js/2.36d59069.chunk.js.LICENSE.txt",
     "static/media/Capture d’écran 2021-02-04 à 12.52.40.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.52.40.3c9bb75b.png",
     "static/media/Capture d’écran 2021-02-04 à 12.53.23.png": "/jobsgabon/static/media/Capture d’écran 2021-02-04 à 12.53.23.1ff47307.png",
@@ -39,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.88ce6d10.js",
     "static/js/2.36d59069.chunk.js",
-    "static/css/main.b83f664f.chunk.css",
-    "static/js/main.2ee7eb43.chunk.js"
+    "static/css/main.026057dc.chunk.css",
+    "static/js/main.9a4990e4.chunk.js"
   ]
 }
